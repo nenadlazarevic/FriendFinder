@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Dating App",
+  "main": "friends.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nenadlazarevic/FriendFinder.git"
+  },
+  "keywords": [
+    "App"
+  ],
+  "author": "Laza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nenadlazarevic/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/nenadlazarevic/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
